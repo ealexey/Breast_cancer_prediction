@@ -27,9 +27,9 @@ The following ML algorithms were used in this project: Logistic Regression, KNN,
 
 | ML metrics    | Logistic Regression | KNN  | Naive Bayes | Decision Tree | Random Forest | SVM |
 | ------------- | ------------------  | -----| ------------| ------------- | ------------- | ----|
-| recall=0      | 0.94  | Content Cell| 0.99 | 0.89        | 0.93          | 0.91          | 0.96|
-| recall=1      | 0.89  | Content Cell| 0.91 | 0.89        | 0.94          | 0.94          | 0.89|
-| accuracy      | 0.92  | Content Cell| 0.96 | 0.89        | 0.94          | 0.92          | 0.93|
+| recall=0      | 0.94                | 0.99 | 0.89        | 0.93          | 0.91          | 0.96|
+| recall=1      | 0.89                | 0.91 | 0.89        | 0.94          | 0.94          | 0.89|
+| accuracy      | 0.92                | 0.96 | 0.89        | 0.94          | 0.92          | 0.93|
 
 
 Conclusion: The best performance to discriminate between benign and malignant tumor based on 10 nuclei features shows
